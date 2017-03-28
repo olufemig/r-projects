@@ -1,2 +1,2 @@
 # r-projects
-All my Sringboard Exercises and Project
+All my Springboard Exercises and Project
